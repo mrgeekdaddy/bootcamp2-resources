@@ -4,7 +4,7 @@ bootcamp2-resources
 Software, plugins, resources and examples
 
 
-Google Chrome - https://www.google.com/intl/en_US/chrome/browser/
+Google Chrome - https://www.google.com/intl/en_US/chrome/browser/ <br />
 Sublime Text 3 - http://www.sublimetext.com/3
 
 Sublime Text 3 plugins-
