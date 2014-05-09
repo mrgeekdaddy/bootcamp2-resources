@@ -1,7 +1,7 @@
 bootcamp2-resources
 ===================
 
-Software, plugins, resources and examples
+##Software, plugins, resources and examples
 
 
 Google Chrome - http://goo.gl/uUztCG<br />
@@ -15,9 +15,9 @@ Installation directions to be available in repository wiki
 Photoshop CC - http://goo.gl/0lgEDG
 
 
-Next Steps-
+##Next Steps-
 
-SASS - http://sass-lang.com/<br />
+<h1>SASS</h1> - http://sass-lang.com/<br />
 Compass - http://compass-style.org/<br />
 SUSY - http://susy.oddbird.net/<br />
 Grunt.js - http://gruntjs.com/
