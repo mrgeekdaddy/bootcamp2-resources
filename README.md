@@ -2,7 +2,7 @@
 [Google Chrome](https://www.google.com/intl/en_US/chrome/browser/)<br />
 [Sublime Text 3](http://www.sublimetext.com/3)
 
-**Sublime Text 3 plugins-**
+**Sublime Text 3 plugins-**<br />
 [Emmet](https://sublime.wbond.net/installation) (Install via Package Control)
 *Installation directions to be available in repository wiki* :point_right:
 
