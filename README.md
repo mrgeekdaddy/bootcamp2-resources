@@ -1,15 +1,12 @@
-<h1>bootcamp2-resources</h1>
-
 <h2>Software, plugins, resources and examples</h2>
-Google Chrome - http://goo.gl/uUztCG<br />
-Sublime Text 3 - http://goo.gl/Zx13V1
+[Google Chrome](https://www.google.com/intl/en_US/chrome/browser/)<br />
+[Sublime Text 3](http://www.sublimetext.com/3)
 
-Sublime Text 3 plugins-
-Emmet (Install via Package Control) - http://goo.gl/Z5Irpg
+<h4>Sublime Text 3 plugins-<h4>
+[Emmet](https://sublime.wbond.net/installation) (Install via Package Control)
+*Installation directions to be available in repository wiki* :point_right:
 
-Installation directions to be available in repository wiki
-
-Photoshop CC - [Free Photoshop Trial](https://creative.adobe.com/products/photoshop?sdid=KKQIU&kw=semgeneric&ttsrccat=sem-na-ccm-cons-freetrial&ttsrccat=sem-ww-di-ps-brand&skwcid=AL!3085!3!35986677498!e!!g!!adobe%20photoshop%20trial&ef_id=Uh-SOwAABLS9e0Zy:20140509012156:s)
+[Photoshop CC](https://creative.adobe.com/products/photoshop?sdid=KKQIU&kw=semgeneric&ttsrccat=sem-na-ccm-cons-freetrial&ttsrccat=sem-ww-di-ps-brand&skwcid=AL!3085!3!35986677498!e!!g!!adobe%20photoshop%20trial&ef_id=Uh-SOwAABLS9e0Zy:20140509012156:s)
 
 
 <h2>Next Steps</h2>
