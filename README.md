@@ -9,7 +9,7 @@ Emmet (Install via Package Control) - http://goo.gl/Z5Irpg
 
 Installation directions to be available in repository wiki
 
-Photoshop CC - http://goo.gl/0lgEDG
+Photoshop CC - [Free Photoshop Trial](https://creative.adobe.com/products/photoshop?sdid=KKQIU&kw=semgeneric&ttsrccat=sem-na-ccm-cons-freetrial&ttsrccat=sem-ww-di-ps-brand&skwcid=AL!3085!3!35986677498!e!!g!!adobe%20photoshop%20trial&ef_id=Uh-SOwAABLS9e0Zy:20140509012156:s)
 
 
 <h2>Next Steps</h2>
