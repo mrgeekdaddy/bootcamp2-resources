@@ -3,8 +3,7 @@
 [Sublime Text 3](http://www.sublimetext.com/3)
 
 **Sublime Text 3 plugins-**<br />
-[Emmet](https://sublime.wbond.net/installation) (Install via Package Control)
-*Installation directions to be available in repository wiki* [:point_right:](https://github.com/rbtstudio/bootcamp2-resources/wiki/Emmet-Installation-Directions)
+[Emmet](https://sublime.wbond.net/installation) (Install via Package Control)[:book:](https://github.com/rbtstudio/bootcamp2-resources/wiki/Emmet-Installation-Directions)
 
 [Photoshop CC](https://creative.adobe.com/products/photoshop?sdid=KKQIU&kw=semgeneric&ttsrccat=sem-na-ccm-cons-freetrial&ttsrccat=sem-ww-di-ps-brand&skwcid=AL!3085!3!35986677498!e!!g!!adobe%20photoshop%20trial&ef_id=Uh-SOwAABLS9e0Zy:20140509012156:s)
 
